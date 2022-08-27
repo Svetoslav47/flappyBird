@@ -1,2 +1,2 @@
 flappy bird made in a day. first game made with pygame
-run main.py to play. us space to jump
+run main.py to play. use space to jump
